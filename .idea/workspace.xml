@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Hello World!">
+    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Updated Readme.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme..md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2_180042133/Readme..md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624544154697</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated Readme.md">
+      <created>1624544982609</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624544982609</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +177,7 @@
     <MESSAGE value="Installed nodemon and express" />
     <MESSAGE value="Setting nodemon to run as `npm run dev`" />
     <MESSAGE value="Hello World!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
+    <MESSAGE value="Updated Readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme.md" />
   </component>
 </project>
