@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Initial Commit for Lab 2-3&#10;GitIgnore and Readme" />
+    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Added package.json">
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2_180042133/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624543066577</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added package.json">
+      <created>1624543302619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624543302619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +145,8 @@
     <MESSAGE value="created fs-module module" />
     <MESSAGE value="Working on http modules" />
     <MESSAGE value="Initial Commit for Lab 2-3&#10;GitIgnore and Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit for Lab 2-3&#10;GitIgnore and Readme" />
+    <MESSAGE value="Added package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added package.json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1619755738984">
