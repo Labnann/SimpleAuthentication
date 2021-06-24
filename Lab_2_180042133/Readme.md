@@ -1,15 +1,15 @@
 A simple log in and registration implementation with expressJS
 Using the template AdminLTE
 
-#Installation Guide:
+# Installation Guide:
 
-##First install AdminLTE: 
-###Method 1:
+## First install AdminLTE: 
+### Method 1:
 You need to clone this repository with recursive submodule call <br>
 
 `git clone --recurse-submodules https://github.com/Labnann/ServerProgramingLab.git`
 
-###Method 2:
+### Method 2:
 Get Admin LTE<br>
 `git clone https://github.com/ColorlibHQ/AdminLTE.git` 
 
@@ -27,10 +27,10 @@ Optional: Remove git from AdminLTE<br>
 Get back to project root<br>
 `cd ..`
 
-##Install node packages
+## Install node packages
  `npm install`
 
-#Run
+# Run
 npm start
 
 
