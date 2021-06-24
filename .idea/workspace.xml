@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Installed nodemon and express" />
+    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Hello World!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme..md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2_180042133/Readme..md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624543876734</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Setting nodemon to run as `npm run dev`">
+      <created>1624544139606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624544139606</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hello World!">
+      <created>1624544154697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624544154697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,40 +169,8 @@
     <MESSAGE value="Initial Commit for Lab 2-3&#10;GitIgnore and Readme" />
     <MESSAGE value="Added package.json" />
     <MESSAGE value="Installed nodemon and express" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed nodemon and express" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1619755738984">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619755738983" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1619766613956">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619766613956" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1619766613955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619766613955" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1619766613955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619766613955" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1619766613956">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619766613956" />
-    <state x="0" y="114" key="SettingsEditor" timestamp="1619757026654">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619757026654" />
-    <state x="436" y="231" width="672" height="677" key="run.anything.popup" timestamp="1619757184855">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="436" y="231" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1619757184855" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619770380020">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619770380020" />
+    <MESSAGE value="Setting nodemon to run as `npm run dev`" />
+    <MESSAGE value="Hello World!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
   </component>
 </project>
