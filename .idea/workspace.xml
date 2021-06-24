@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Trying to add AdminLTE as submodule" />
+    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Added AdminLTE as Submodule">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624546172427</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added as Submodule">
+      <created>1624546728175</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1624546728175</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +194,7 @@
     <MESSAGE value="Hello World!" />
     <MESSAGE value="Updated Readme.md" />
     <MESSAGE value="Trying to add AdminLTE as submodule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to add AdminLTE as submodule" />
+    <MESSAGE value="Added AdminLTE as Submodule" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AdminLTE as Submodule" />
   </component>
 </project>
