@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955fa365-456c-45cf-906e-79f027bf5007" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ServerProgrammingLab.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/pricing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/fs-module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/globalVariable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/helloworld.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/httpmodule.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/loadcontent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/osmodule.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/AdminLTE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="955fa365-456c-45cf-906e-79f027bf5007" name="Default Changelist" comment="Renamed Lab2 to src, removed lab 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624632377694</updated>
-      <workItem from="1624632380763" duration="310000" />
+      <workItem from="1624632380763" duration="703000" />
     </task>
     <servers />
   </component>
@@ -83,5 +52,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Renamed Lab2 to src, removed lab 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed Lab2 to src, removed lab 1" />
   </component>
 </project>
