@@ -4,7 +4,6 @@ Using the template AdminLTE
 # Installation Guide:
 
 ## First install AdminLTE: 
-### Method 1:
 You need to clone this repository with recursive submodule call <br>
 
 `git clone --recurse-submodules https://github.com/Labnann/SimpleAuthentication.git`
