@@ -7,7 +7,7 @@ Using the template AdminLTE
 ### Method 1:
 You need to clone this repository with recursive submodule call <br>
 
-`git clone --recurse-submodules https://github.com/Labnann/ServerProgramingLab.git`
+`git clone --recurse-submodules https://github.com/Labnann/SimpleAuthentication.git`
 
 ### Method 2:
 Get Admin LTE<br>
