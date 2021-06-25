@@ -1,169 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="Added AdminLTE as Submodule">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" afterDir="false" />
+    <list default="true" id="955fa365-456c-45cf-906e-79f027bf5007" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ServerProgrammingLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/content/HTML/work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/fs-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/globalVariable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/helloworld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/httpmodule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/loadcontent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/osmodule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_180042133/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/AdminLTE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_180042133/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1rsD0N6HAbAlMqqK45zJ4ZgJKeB" />
+  <component name="ProjectId" id="1uRdXlp9ERZEzUiXwrchyia08YM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.20.11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.stylelint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.stylelint" value="" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="node globalVariable.js" />
-      <command value="cd lab_1_180042133" />
-    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e45332e-3392-4d93-9756-8c972f13a3ff" name="Default Changelist" comment="" />
-      <created>1619755680115</created>
+      <changelist id="955fa365-456c-45cf-906e-79f027bf5007" name="Default Changelist" comment="" />
+      <created>1624632377694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619755680115</updated>
-      <workItem from="1619755681267" duration="10818000" />
-      <workItem from="1619769189753" duration="3284000" />
+      <updated>1624632377694</updated>
+      <workItem from="1624632380763" duration="310000" />
     </task>
-    <task id="LOCAL-00001" summary="created globalVariable module">
-      <created>1619760829296</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1619760829297</updated>
-    </task>
-    <task id="LOCAL-00002" summary="created helloworld module">
-      <created>1619760843629</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1619760843629</updated>
-    </task>
-    <task id="LOCAL-00003" summary="created utils module">
-      <created>1619760854732</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1619760854732</updated>
-    </task>
-    <task id="LOCAL-00004" summary="created osmodule module">
-      <created>1619765054237</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1619765054237</updated>
-    </task>
-    <task id="LOCAL-00005" summary="created fs-module module">
-      <created>1619765084724</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1619765084724</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Working on http modules">
-      <created>1619766612743</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1619766612743</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Initial Commit for Lab 2-3&#10;GitIgnore and Readme">
-      <created>1624543066577</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1624543066577</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added package.json">
-      <created>1624543302619</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1624543302619</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Installed nodemon and express">
-      <created>1624543876734</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1624543876734</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Setting nodemon to run as `npm run dev`">
-      <created>1624544139606</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1624544139606</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Hello World!">
-      <created>1624544154697</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1624544154697</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Updated Readme.md">
-      <created>1624544982609</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1624544982609</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Trying to add AdminLTE as submodule">
-      <created>1624546172427</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1624546172427</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Added as Submodule">
-      <created>1624546728175</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1624546728175</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,22 +83,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="created globalVariable module" />
-    <MESSAGE value="created helloworld module" />
-    <MESSAGE value="created utils module" />
-    <MESSAGE value="created osmodule module" />
-    <MESSAGE value="created fs-module module" />
-    <MESSAGE value="Working on http modules" />
-    <MESSAGE value="Initial Commit for Lab 2-3&#10;GitIgnore and Readme" />
-    <MESSAGE value="Added package.json" />
-    <MESSAGE value="Installed nodemon and express" />
-    <MESSAGE value="Setting nodemon to run as `npm run dev`" />
-    <MESSAGE value="Hello World!" />
-    <MESSAGE value="Updated Readme.md" />
-    <MESSAGE value="Trying to add AdminLTE as submodule" />
-    <MESSAGE value="Added AdminLTE as Submodule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added AdminLTE as Submodule" />
   </component>
 </project>
