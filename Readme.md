@@ -16,7 +16,7 @@ Install the packages
 
  `npm install`
 
-# Run
-`npm start`
+# Run with nodemon
+`npm run dev`
 
 
